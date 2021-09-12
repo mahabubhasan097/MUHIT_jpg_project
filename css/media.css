@@ -1,0 +1,942 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+ @media (max-width: 575.98px) { 
+   /* header start */
+   #token{
+     border-right: 1px solid white;
+   }
+   #token,#token a:hover{
+     color: white;
+     border-right: 1px solid black;
+   }
+  .header {
+    padding: 23px 0 20px;
+}
+.nt{
+  margin-bottom: 0 !important;
+}
+.nb {
+  width: 52%;
+  font-size: 22px;
+  letter-spacing: 0px;
+}
+.nav-content ul li {
+  padding: 5px;
+  margin: 0;
+}
+.token{
+  background-color: transparent;
+}
+/* header end */
+
+/*about start*/
+.about {
+  min-height: 535px;
+}
+.aboutcontent h1 {
+  font-size: 22px;
+}
+.aboutcontent p {
+  font-size: 16px;
+  letter-spacing: 0;
+}
+.aboutimg img {
+  width: 213px;
+  height: 254px;
+  position: absolute;
+  bottom: -1.4%;
+  right: -9%;
+}
+.aboutbtn {
+  font-size: 14px;
+  padding: 10px 10px;
+  margin: 15px 0px 0 0;
+}
+/*about end*/
+.company {
+  padding: 40px 0;
+}
+/*token start*/
+.tokenFirstpart h1 {
+  font-size: 24px;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+}
+
+.tokenFirstpart p {
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+.tokenFirstpart h2 {
+  margin-top: 20px;
+  font-size: 25px;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+}
+.tokenn {
+  padding: 35px 0 30px;
+}
+.timenumber {
+  font-size: 25px;
+}
+.colone {
+  font-size: 23px;
+}
+.coloneWrapper {
+  margin: 0px 5px;
+}
+.timeletter {
+  font-size: 12px;
+}
+.tcount {
+  padding: 30px 0;
+}
+.tcount p {
+  margin-bottom: 25px;
+}
+.bartitle1 {
+  left: 18%;
+  font-size: 12px;
+}
+.bar1 {
+  left: 32.9%;
+}
+.bartitle2 {
+  left: 38.1%;
+  font-size: 12px;
+}
+.bar2 {
+  left: 53.6%;
+}
+.bartitle3 {
+  right: 12%;
+  font-size: 12px;
+}
+.bartitle4 {
+  font-size: 12px;
+}
+.bartitle5 {
+  right: 20.8%;
+  font-size: 12px;
+}
+.bartitle6 {
+  font-size: 12px;
+}
+.crypto {
+  height: 55px;
+}
+.crypto img {
+  width: 40px;
+  height: 40px;
+}
+
+.salebarbtn {
+  padding: 10px 18px;
+  font-size: 14px;
+}
+/*token end*/
+
+/*trade start*/
+.Ltrade{
+  overflow: hidden;
+  }
+  .tradeLeftinner {
+      width: 48%;
+      float: left;
+      margin-top: 0;
+  }
+  .tradeLeftinner1 {
+      width: 100%;
+      margin-bottom: 25px;
+      padding-top: 35px;
+      height: 150px;
+  }
+  .tradeleftinnerright{
+      float: right;
+      width: 48%;
+      padding-right: 0;
+      margin-left: 0;
+  }
+  .trading {
+    padding: 40px 0;
+}
+.tradeRight1st {
+    padding-left: 12px;
+}
+.tradeP {
+    margin: 25px 0;
+    text-align: center;
+}
+.tradeRight1st h1 {
+  font-size: 24px;
+    text-align: center;
+}
+.tradeRight2nd h3 {
+    text-align: center;
+}
+.tradeRight2nd p {
+    padding-right: 0;
+    text-align: center;
+}
+  /*trade end*/
+
+  /*road map start*/
+.roadmap {
+  padding: 30px 0;
+}
+.roadmap h1 {
+  font-size: 24px;
+} 
+.roadmap p {
+  font-size: 16px;
+}
+.carotext1 {
+  top: 27%;
+  left: 1%;
+  padding: 5px;
+  width: 100px;
+  font-size: 10px;
+}
+.carotext1::after {
+  top: 98%;
+  left: 40.4%;
+}
+.carotext2 {
+  top: 27%;
+  left: 33.7%;
+  font-size: 10px;
+  padding: 12px 5px;
+  width: 100px;
+}
+.carotext2::after {
+  top: 98%;
+  left: 40.4%;
+}
+.carotext3 {
+  top: 27%;
+  left: 66.4%;
+  font-size: 10px;
+  padding: 5px;
+  width: 100px;
+}
+.carotext3::after {
+  top: 98%;
+  left: 40.4%;
+}
+.carotext4 {
+  top: 60%;
+  left: 18.5%;
+  font-size: 10px;
+  padding: 5px;
+  width: 100px;
+}
+.carotext4::after {
+  top: 1px;
+  left: 50%;
+}
+.carotext5 {
+  top: 60%;
+  left: 50.7%;
+  font-size: 10px;
+  padding: 5px;
+  width: 100px;
+}
+.carotext5::after {
+  top: 1px;
+}
+.monthyear1 {
+  top: 54%;
+  left: 11.4%;
+  font-size: 10px;
+}
+.monthyear2 {
+  top: 41%;
+  left: 23.3%;
+  font-size: 10px;
+}
+.monthyear3 {
+  top: 20%;
+  left: 32.6%;
+  font-size: 11px;
+}
+.monthyear4 {
+  top: 41%;
+  left: 57.3%;
+  font-size: 10px;
+}
+.monthyear5 {
+  top: 54%;
+  left: 75%;
+  font-size: 10px;
+}
+.caroimg1 {
+  left: 11%;
+}
+.caroimg2 {
+  left: 27%;
+}
+.caroimg3 {
+  left: 43%;
+}
+.caroimg4 {
+  left: 59%;
+} 
+.caroimg5 {
+  left: 76%;
+}
+.carouselCbtn {
+  width: 5% !important;
+}
+/*roaad map end*/
+
+/*features start*/
+.features {
+  padding: 30px 0;
+}
+.f-single {
+  margin-top: 25px;
+  padding: 0 12px;
+}
+.fc-h2 {
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+.fc-p {
+  letter-spacing: 0px;
+  line-height: 18px;
+  font-size: 16px;
+}
+/*features end*/
+
+/*notify start*/
+.notify {
+  padding: 40px 0;
+}
+.mnot {
+  margin-bottom: 20px;
+}
+.notifyContent{
+  margin: 0 !important;
+  padding-left: 12px !important;
+}
+.notifyContent h2 {
+  margin: 5px 0 10px;
+  font-size: 18px;
+}
+.notifyContent p {
+  font-size: 15px;
+  line-height: 18px;
+}
+.notifyimg{
+margin-left: 0 !important;
+padding-top: 130px;
+}
+.notifyContent button {
+  margin-top: 5px;
+}
+/*notify  end*/
+
+/*team start*/
+.team {
+  padding: 40px 0 20px;
+}
+.cb h5 {
+  font-size: 14px;
+  margin: 0;
+  font-weight: 700;
+}
+.cb p {
+  margin: 3px 0;
+  font-size: 13px;
+}
+.cb {
+  padding: 0;
+  width: 100%;
+  margin-bottom: 4%;
+}
+.cb a {
+  margin: 0;
+  font-size: 14px;
+}
+.cardtopmargin {
+  margin-top: 17%;
+}
+.teamcaro {
+  margin-top: 40px;
+  height: 300px;
+}
+
+/*team  end*/
+
+/*advisory start*/
+.advisory {
+  padding-bottom: 10px;
+}
+.customindi2 [data-bs-target] {
+  width: 70px;
+  height: 70px;
+}
+.customci {
+  padding: 125px 0 0;
+}
+.advcontent h3 {
+  text-align: center;
+}
+.advcontent p {
+  font-size: 16px;
+  text-align: center;
+}
+/*advisory  end*/
+
+/*app start*/
+.apphead h1 {
+  margin-bottom: 20px;
+}
+.apphead p {
+  text-align: center;
+  margin-bottom: 18px;
+  padding: 0 12px;
+  font-size: 16px;
+}
+.apphead img {
+  width: 250px;
+  height: 190px;
+  right: 11%;
+}
+.apphead ul li {
+  font-size: 16px;
+}
+.app {
+  padding: 40px 0 180px;
+}
+/*app  end*/
+
+/*work start*/
+.work {
+  padding: 40px 0;
+  background-color: #f6f6fc;
+}
+.box1 i {
+  font-size: 25px;
+  padding: 30px 0;
+}
+.box1 {
+  float: left;
+}
+.workhead {
+  margin: 0 !important;
+}
+.workhead h3 {
+  margin-bottom: 15px;
+  font-size: 18px;
+  text-align: center;
+}
+.workhead p {
+  font-size: 16px;
+  text-align: center;
+}
+/*work  end*/
+
+/*media start*/
+.media {
+  padding: 40px 0;
+}
+.mainmedia{
+  margin-top: 40px;
+}
+
+.cb2{
+  padding:0 12px;
+  }
+  .cardin {
+    text-align: center;
+    padding: 20px 25px;
+}
+  /*media  end*/
+
+  /*question start*/
+  .faq {
+    padding: 40px 0 185px;
+  }
+.faqhead p {
+  padding: 0px 10px;
+}
+.accrPara{
+  padding: 0 5px;
+  font-family: serif;
+  font-size: 14px;
+}
+.acm {
+  margin: 20px 0 5px;
+}
+.accrbtn {
+  padding: 0px 5px;
+  font-size: 10px;
+  font-weight: 500;
+  height: 60px !important;
+}
+.tele a {
+  font-size: 50px;
+}
+.tele h2 {
+  margin-bottom: 5px;
+  font-size: 20px;
+} 
+.tele p {
+  font-size: 16px;
+  margin-bottom: 0px;
+}
+/*question  end*/
+
+/*contact start*/
+.maincform {
+  padding: 22px 0;
+  right: 0%;
+  bottom: 42%;
+}
+.conp{
+padding: 0 8px;
+}
+.cbtn {
+  margin-top: 0px;
+}
+.subhead span {
+  margin-bottom: 15px;
+  text-align: center;
+  display: block;
+}
+.subhead h3 {
+  margin-bottom:3px;
+  font-size: 22px;
+  text-align: center;
+}
+.subbtn {
+  height: 40px;
+  width: 42%;
+  display: block;
+  margin: 20px auto 0px;
+}
+.contact {
+  padding: 380px 0 40px;
+}
+/*contact  end*/
+
+/* footer start */
+.footer {
+  padding: 40px 0 20px;
+}
+
+.f1 p {
+  font-size: 16px;
+  text-align: center;
+}
+.f1 h3 {
+  margin-bottom: 10px;
+  font-size: 24px;
+  text-align: center;
+}
+.f2 h4 {
+  font-size: 17px;
+  margin-bottom: 10px;
+  text-align: center;
+} 
+.f2 ul li {
+  text-align: center;
+}
+.footp {
+  padding: 15px 0;
+  text-align: center;
+  font-size: 16px;
+}
+/* footer end */
+    
+}
+    
+     /* Small devices (landscape phones, 576px and up) */
+  @media (min-width: 576px) and (max-width: 767.98px) {
+    #token{
+      border-right: 1px solid white;
+    }
+    
+    
+    }
+    
+     /* Medium devices (tablets, 768px and up) */
+    @media (min-width: 768px) and (max-width: 991.98px) { 
+      /* header start */
+      #token{
+        border-right: 1px solid white;
+      }
+      #token,#token a:hover{
+        color: white;
+        border-right: 1px solid black;
+      }
+      .header {
+        padding: 20px 0;
+    }
+    .nav-content ul li {
+      padding: 5px 0 !important;
+      margin: 0;
+    }
+    .token{
+      background-color: transparent;
+    }
+    .aboutcontent h1 {
+      font-size: 26px;
+  }
+  .aboutcontent p {
+    font-size: 16px;
+}
+.aboutbtn {
+  padding: 5px 6px;
+  margin: 15px 2px 0 0;
+  font-size: 14px;
+}
+.aboutimg img {
+  width: 315px;
+  height: 350px;
+  bottom: 7.6%;
+  right: 5%;
+}
+.about {
+  min-height: 345px;
+  padding: 15px 0 0;
+}
+      /* header ebd */
+/* company start */
+.company {
+  padding: 30px 0;
+}
+/* company end */
+/* token start */
+.tokenn {
+  padding: 50px 0;
+}
+   /* token end */
+   /* trading start */
+   .tradeLeftinner1 {
+    padding: 25px 0 0 0;
+    height: 130px;
+}
+.tradeP {
+  margin: 25px 0;
+}
+.trading {
+  padding: 50px 0;
+}
+   /* trading end */
+   /* roadmap start */
+   .roadmap {
+    padding: 50px 0;
+}
+   .carotext1 {
+    left: 1.7%;
+}
+.monthyear2 {
+    top: 106px;
+    left: 22.3%;
+}
+.monthyear1 {
+    top: 162px;
+    left: 8.4%;
+}
+.carotext4 {
+    left: 18.7%;
+}
+.carotext2 {
+    left: 38.6%;
+}
+.monthyear4 {
+    top: 106px;
+    left: 62.3%;
+}
+.monthyear3 {
+    top: 162px;
+    left: 38.8%;
+}
+.carotext5 {
+    left: 57.5%;
+}
+.monthyear5 {
+    top: 162px;
+    left: 80%;
+}
+.carotext3 {
+    left: 74.5%;
+}
+.caroimg5 {
+    left: 84%;
+}
+   /* roadmap end  */
+
+   /* features start */
+   .fc-p {
+    padding: 0 10px 0 0;
+}
+.features {
+  padding: 50px 0;
+}
+.tokenFirstpart p {
+  margin-bottom: 20px;
+}
+   /* features end */
+
+   /* notify start */
+   .notifyimg{
+     padding-top: 60px;
+   }
+   .notify {
+    padding: 50px 0;
+}
+.mnot {
+  margin-bottom: 30px;
+}
+.notifyContent button {
+  margin-top: 5px;
+}
+.notifyContent h2 {
+  margin: 10px 0 30px;
+  font-size: 25px;
+}
+   /* notify end */
+
+   /* team start */
+   .team {
+    padding: 50px 0;
+}
+   .teamcaro {
+    margin-top: 50px;
+    height: 510px;
+}
+   .cb {
+    width: 100%;
+}
+   /* team end */
+
+   /* advisory start  */
+   .customindi2 [data-bs-target] {
+    width: 115px;
+    height: 115px;
+}
+.customci {
+  padding: 170px 0 0;
+}
+.advcontent h3 {
+  text-align: center;
+}
+.advcontent p {
+  text-align: center;
+}
+.advisory {
+  padding-bottom: 5px;
+}
+   /* advisory end */
+
+   /* app start */
+   .app {
+    padding: 50px 0;
+}
+   .apphead img {
+    width: 300px;
+    height: 240px;
+}
+.apphead p {
+  text-align: center;
+  margin-bottom: 55px;
+}
+   /* app end */
+   /* work start */
+   .work {
+    padding: 50px 0;
+}
+   .box1 {
+    float: left;
+  }
+  .workhead {
+    padding-top: 3%;
+    margin: 0;
+}
+.workhead h3 {
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 25px;
+}
+.workhead p {
+  text-align: center;
+}
+   /* work end */
+   /* media start */
+   .media {
+    padding: 50px 0;
+}
+.mainmedia {
+  margin-top: 40px;
+}
+.cardin {
+  padding: 30px 20px;
+}
+   /* media end */
+   /* question start */
+   .faq {
+    padding: 50px 0 370px;
+}
+   .accrbtn {
+    font-size: 14px;
+}
+.acm {
+  margin: 20px 0;
+}
+.tele h2 {
+  margin-bottom: 5px;
+  font-size: 24px;
+}
+.tele a {
+  font-size: 90px;
+}
+   /* question end */
+   /* contact start */
+   .maincform {
+    padding: 25px 35px;
+    right: 0%;
+    bottom: 43%;
+}
+.contact {
+    padding: 330px 0 50px;
+}
+   /* contact end */
+}
+    
+     /* Large devices (desktops, 992px and up) */   
+    @media (min-width: 992px) and (max-width: 1199.98px) {
+
+      /* about start */
+      .aboutimg img {
+        bottom: 5.6%;
+        right: 6%;
+    }
+      /* about end */
+
+      /* token start */
+      .bartitle1 {
+        left: 25%;
+    }
+    .bartitle2 {
+      left: 45%;
+  }
+  .bartitle5 {
+    right: 24.5%;
+}
+      /* token end */
+
+      /* roadmap start */
+      .carotext1 {
+        left: 3.9%;
+    }
+    .carotext4 {
+      left: 21%;
+  }
+  .carotext4::after {
+    top: 1px;
+}
+.carotext2 {
+  left: 41%;
+}
+.monthyear3 {
+  left: 41.8%;
+}
+.carotext5 {
+  left: 60%;
+}
+.carotext5::after {
+  top: 1px;
+}
+.carotext3 {
+  left: 77.9%;
+}
+ /* roadmap end */
+/* notify start */
+
+/* notify end */
+  
+/* features start */
+      .fc-p {
+        padding: 0 5px 0 0;
+    }
+ /* features end  */
+     
+    }
+    
+     /*Extra Large devices (desktops, 1200px and up) */
+     @media (min-width: 1200px) and (max-width: 1399.98px) {
+       
+    
+     
+      }
+    
+    /* Extra extra large devices (large desktops, 1200px and up) */
+    @media (min-width: 1400px) and (max-width: 1799.98px){ 
+
+
+      .about {
+        min-height: 575px;
+    }
+
+    .aboutimg img {
+      width: 490px;
+      height: 571px;
+      position: absolute;
+      bottom: 12.6%;
+      right: 7%;
+  }
+      
+    /* roadmap start */
+    .carotext1 {
+      left: 5.8%;
+  }
+  .carotext4 {
+      left: 22.9%;
+  }
+  .carotext2 {
+      left: 42.9%;
+  }
+  .carotext5 {
+      left: 61.9%;
+  }
+  .carotext3 {
+      left: 79.8%;
+  }
+    /* roadmap end */
+     }
+
+     @media (min-width: 1800px){
+
+      .about {
+        min-height: 620px;
+    }
+  
+  .aboutimg img {
+    bottom: 17.6%;
+      right: 13%;
+      width: 539px;
+      height: 584px;
+  }
+      
+    /* roadmap start */
+    .carotext1 {
+      left: 5.8%;
+  }
+  .carotext4 {
+      left: 22.9%;
+  }
+  .carotext2 {
+      left: 42.9%;
+  }
+  .carotext5 {
+      left: 61.9%;
+  }
+  .carotext3 {
+      left: 79.8%;
+  }
+    /* roadmap end */
+
+     }    
